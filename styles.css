@@ -105,3 +105,11 @@ h3 + p {
   font-size: 16px;
   line-height: 1.5;
 }
+
+/* Counter */
+.counter {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+  background-color: #155ebc;
+}
