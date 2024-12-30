@@ -110,6 +110,8 @@ h3 + p {
 .counter {
   display: flex;
   justify-content: space-between;
+  max-width: 35px;
   margin-bottom: 20px;
+  color: #f9f9f9;
   background-color: #155ebc;
 }
