@@ -2,6 +2,10 @@
 
 This project is a **serverless, cloud-hosted resume website** deployed using **AWS services**. It integrates HTML, CSS, and JavaScript for the front end and utilizes AWS services like **S3, CloudFront, Route 53, DynamoDB, API Gateway, and Lambda** to provide a dynamic and scalable experience.
 
+## 👩🏽‍💻 Blog Link
+- [Part 1 ](https://dev.to/onetayjones/cloud-ready-resume-html-to-aws-4e9f)
+- [Part 2 ](https://dev.to/onetayjones/how-i-turned-my-resume-website-into-a-cloud-powered-project-2427)
+
 ## 🚀 Features
 
 - **Static Resume Website:** Built with **HTML & CSS**, hosted on **Amazon S3**.
